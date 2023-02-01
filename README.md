@@ -1,5 +1,10 @@
-### Hi there 👋
+### Welcome to my *PRO*file
 
+🌱 I’m currently working my way through HyperionDev's Software Development Bootcamp\
+
+🔭 I’m currently working on a Django based website that manipulates and stores data in a SQL database, from which label writing software will read data relevant for their specific templates\
+
+💬 Ask me about opera (the genre, not the web browser)
 <!--
 **bacsiii2000/bacsiii2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
